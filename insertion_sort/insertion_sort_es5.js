@@ -10,4 +10,4 @@ var insertionSort = function(nums) {
     }
   }
 }
-insertionSort([32,45,12,0,7,29]);
+// insertionSort([32,45,12,0,7,29]);
